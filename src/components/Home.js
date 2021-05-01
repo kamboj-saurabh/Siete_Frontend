@@ -13,6 +13,8 @@ import home_1 from "../images/home_banner_1.jpg";
 import home_2 from "../images/home_banner_2.jpg";
 import home_3 from "../images/home_banner_3.jpg";
 
+
+
 export function ControlledCarousel() {
   const [index, setIndex] = useState(0);
 
