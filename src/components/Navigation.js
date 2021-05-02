@@ -90,7 +90,7 @@ export function DesktopNavigation() {
             <button type="button" className="btn-icon">
               <img
                 src={wish_icon}
-                title="Playlist"
+                title="Wishlist"
                 className="nav-icon-img"
                 alt="wish_icon"
               />
@@ -101,7 +101,7 @@ export function DesktopNavigation() {
             <button type="button" className="btn-icon">
               <img
                 src={cart_icon}
-                title="Watch Later"
+                title="Cart"
                 className="nav-icon-img"
                 alt="cart_icon"
               />
